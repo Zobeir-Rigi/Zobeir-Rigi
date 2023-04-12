@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zobeir</h1>
 
 
-- 💬 Ask me about **React, Node-js**
-
+<!-- - 💬 Ask me about **React, Node-js**
+ -->
 - 📫 Reach me at **rigi.zobir@yahoo.com**
 
 - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler
