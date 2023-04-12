@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zobeir</h1>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
-
-<p align="left"> <a href=" target="blank"><img src="https://img.shields.io/twitter/follow/mohajer_2025?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 - 💬 Ask me about **React, Node-js**
 
