@@ -8,7 +8,7 @@
 - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler
 **
 
-  My first <a href="http://www.sad_music.loxblog.com/">blog</a> whan I was at high school 
+  My first <a href="http://www.sad_music.loxblog.com/">blog</a> whan I was at high school ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/zobeir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Zobeir" height="30" width="40" /></a>
