@@ -5,7 +5,7 @@
  -->
 - 📫 Reach me at **rigi.zobir@yahoo.com**
 
- -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app">Portfolio</a>
+   -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app">Portfolio</a>
 
 - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler
 **
