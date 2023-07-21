@@ -6,9 +6,8 @@
 - 📫 Reach me at **rigi.zobir@yahoo.com**
    -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app">Portfolio</a>
 
-- ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler
-**
-
+<!-- - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler 
+** -->
   My first <a href="http://www.sad_music.loxblog.com/">blog</a> whan I was at high school ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
