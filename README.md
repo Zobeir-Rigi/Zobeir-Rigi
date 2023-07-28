@@ -4,7 +4,7 @@
 <!-- - 💬 Ask me about **React, Node-js**
  -->
 - 📫 Reach me at **rigi.zobir@yahoo.com**
-   -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app">Portfolio</a>
+   -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app"><b>Portfolio</b></a>
 ### 📁 [Current CV](https://drive.google.com/file/d/1WWR47gbVO8RMYhCAZGxu9ri6rV1PQUh9/view?usp=sharing)
 
 
