@@ -6,10 +6,26 @@
 - 📫 Reach me at **rigi.zobir@yahoo.com**
    -<a target="-blank" href="https://portfolio-zobeir-rigi.netlify.app"><b>Portfolio</b></a>
     ### 📁 [Current CV](https://drive.google.com/file/d/1WWR47gbVO8RMYhCAZGxu9ri6rV1PQUh9/view?usp=sharing)
+  ## Projects Showcase
+
+### [In A Class Of Our Own](https://starter-kit-j8jj.onrender.com/)
+Our Final Project, was developed collaboratively by a team of four.
+We utilized HTML, CSS, JavaScript, React, Node.js, and SQL to create a comprehensive web application.
+Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
+
+### [The I Life](https://main.d3q5vnfi8sdva3.amplifyapp.com/)
+I recently completed a personal project to assess my skills and showcase my abilities.
+For this project, I implemented a frontend application using HTML, CSS, React, and JavaScript.
+It allowed me to apply my knowledge of these technologies and develop a practical understanding of frontend development.
+
+### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
+Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
+
+### [Blog, React & Node Group Project](https://blog-team-work.netlify.app/)
+### [Tv Show](https://cyf-zobeir-rigi-tv.netlify.app/)
+### [Love & Care, Group Project](https://charity-love.netlify.app/)
 
 
-<!-- - ⚡ Fun fact **Any fool can write code that a computer can understand. Good programmers write code that humans can understand. | Martin Fowler 
-** -->
   This was my first <a href="http://www.sad_music.loxblog.com/">blog</a> when I was in high school
 <h3 align="left">Connect with me:</h3>
 <p align="left">
