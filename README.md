@@ -3,8 +3,9 @@
 <!-- - 💬 Ask me about **React, Node-js** -->
 
 - 📫 Reach me at **rigi.zobir@yahoo.com**
-  - [Portfolio](https://portfolio-zobeir-rigi.netlify.app)
-  - [LinkedIn](https://www.linkedin.com/in/zobeir-r-37068217b/)
+  - <a href="https://portfolio-zobeir-rigi.netlify.app" target="_blank">Portfolio</a>
+  - <a href="https://www.linkedin.com/in/zobeir-r-37068217b/" target="_blank">LinkedIn</a>
+
   ### 📁 [Current CV](https://drive.google.com/file/d/1WWR47gbVO8RMYhCAZGxu9ri6rV1PQUh9/view?usp=sharing)
 
 ## Languages and Tools:
