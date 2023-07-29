@@ -50,4 +50,4 @@ Thirteen individuals came together in a collaborative effort, culminating in a f
  alt="sql" width="140" height="40"/> </a>
 
   
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Zobeir-Rigi&show_icons=true alt=Zobeir /> </p>
+<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Zobeir-Rigi&show_icons=true alt=Zobeir /> </p> -->
