@@ -37,4 +37,4 @@ Thirteen individuals came together in a collaborative effort, culminating in a f
 ### [Tv Show](https://cyf-zobeir-rigi-tv.netlify.app/)
 ### [Love & Care, Group Project](https://charity-love.netlify.app/)
 
-This was my first [blog](http://www.sad_music.loxblog.com/) when I was in high school.
+<!-- This was my first [blog](http://www.sad_music.loxblog.com/) when I was in high school. -->
