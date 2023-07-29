@@ -4,6 +4,8 @@
 
 - 📫 Reach me at **rigi.zobir@yahoo.com**
   - [Portfolio](https://portfolio-zobeir-rigi.netlify.app)
+  - [linkedin](https://www.linkedin.com/in/zobeir-r-37068217b/)
+
   ### 📁 [Current CV](https://drive.google.com/file/d/1WWR47gbVO8RMYhCAZGxu9ri6rV1PQUh9/view?usp=sharing)
 
 ## Projects Showcase
