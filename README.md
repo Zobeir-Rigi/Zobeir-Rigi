@@ -34,7 +34,7 @@ It allowed me to apply my knowledge of these technologies and develop a practica
 ### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
-### [Blog, React & Node Group Project](https://blog-team-work.netlify.app/)
+### [Blog, React & Node, Group Project](https://blog-team-work.netlify.app/)
 ### [Tv Show](https://cyf-zobeir-rigi-tv.netlify.app/)
 ### [Love & Care, Group Project](https://charity-love.netlify.app/)
 
