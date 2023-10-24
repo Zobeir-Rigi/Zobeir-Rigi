@@ -21,7 +21,7 @@
 
 ## Projects Showcase
 
-### [In A Class Of Our Own](https://starter-kit-j8jj.onrender.com/)
+### [Cyf Progree Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
 We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive web application.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
