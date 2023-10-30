@@ -6,7 +6,7 @@
   - <a href="https://portfolio-zobeirrigi.netlify.app/"  target="_blank" >Portfolio</a>
   - <a href="https://www.linkedin.com/in/zobeir-r-37068217b/"  target="_blank" >LinkedIn</a>
 
-  ### 📁 [Current CV]([https://drive.google.com/file/d/1kFH6_hgjfyX0iyj4Ca6Qm80wCypgiAa-/view](https://drive.google.com/file/d/1v7qNmpDyS8CA0PR_nv5ASdy8b5n9sQQm/view))
+  ### 📁 [Current CV]([https://drive.google.com/file/d/1v7qNmpDyS8CA0PR_nv5ASdy8b5n9sQQm/view])
 
 ## Languages and Tools:
 <p align="left">
