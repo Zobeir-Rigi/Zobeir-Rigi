@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zobeir</h1>
+<p>
+  A highly motivated Full-Stack Developer with a strong background in Computer Software Technology Engineering. I hold a Bachelor's Degree from the Hatef Institute of Higher Education in Iran, a qualification recognized as equivalent to a UK Bachelor's degree. I have further honed his skills by completing the esteemed 9-month bootcamp, 'Code Your Future,' where I mastered HTML, CSS, Tailwind, Next Js, JavaScript, React, Node Js, and SQL.
+
+</p>
 
 <!-- - 💬 Ask me about **React, Node-js** -->
 
