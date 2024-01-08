@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zobeir</h1>
 <p>
-I am a Full-Stack Developer with a strong background in Computer Software Technology Engineering. I hold a Bachelor's Degree from a university recognized as equivalent to a UK Bachelor's degree. In addition, I have further honed my skills by completing the esteemed 10-month bootcamp, 'Code Your Future,' where I mastered HTML, CSS, Tailwind, Next Js, JavaScript, React, Node Js, SQL and AWS.
+I am a Full-Stack Developer with a strong background in Computer Software Technology Engineering. I hold a Bachelor's Degree from a university recognized as equivalent to a UK Bachelor's degree. In addition, I have further honed my skills by completing the esteemed 10-month bootcamp, 'Code Your Future,' where I mastered HTML, CSS, Tailwind, Next Js, JavaScript, React, Node Js, SQL, AWS, and Python.
 </p>
 
 <!-- - 💬 Ask me about **React, Node-js** -->
