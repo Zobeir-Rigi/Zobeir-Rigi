@@ -27,15 +27,15 @@ I am a Full-Stack Developer with a strong background in Computer Software Techno
 
 ## Projects Showcase
 ### [Landon Hotel, Personal Project](https://main.d3nfqgnj9dhwef.amplifyapp.com/)
-A single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless!
+Built a <b>full-stack project<b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless!
 
 ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
-We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive web application.
+We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application<b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
 ### [The I Life](https://main.d3q5vnfi8sdva3.amplifyapp.com/)
-Completed a personal Full-Stack project to assess my skills and showcase my abilities.
+Completed a personal<b> Full-Stack project <b> to assess my skills and showcase my abilities.
 For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both frontend and backend development.
 
 ### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
