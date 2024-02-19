@@ -31,7 +31,7 @@ Built a <b>full-stack project</b> – a single-page React app powered by the mag
 
 ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
-We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application<b/>.
+We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
 ### [The I Life](https://main.d3q5vnfi8sdva3.amplifyapp.com/)
