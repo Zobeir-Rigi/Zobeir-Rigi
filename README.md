@@ -26,7 +26,7 @@ I am a Full-Stack Developer with a strong background in Computer Software Techno
 </p>
 
 ## Projects Showcase
-### [Landon Hotel, Personal Project](https://main.d3nfqgnj9dhwef.amplifyapp.com/)
+### [Landon Hotel](https://main.d3nfqgnj9dhwef.amplifyapp.com/), Personal Project
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless!
 
 ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
