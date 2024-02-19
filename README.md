@@ -35,9 +35,8 @@ We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to cre
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
 ### [The I Life](https://main.d3q5vnfi8sdva3.amplifyapp.com/)
-I recently completed a personal project to assess my skills and showcase my abilities.
-For this project, I implemented a frontend application using <b>HTML, CSS, React, and JavaScript </b>.
-It allowed me to apply my knowledge of these technologies and develop a practical understanding of frontend development.
+Completed a personal Full-Stack project to assess my skills and showcase my abilities.
+For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both frontend and backend development.
 
 ### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
