@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Zobeir</h1>
 <p>
-An experienced Full-Stack Developer with a solid background in Computer Software Technology Engineering, my educational journey includes a Bachelor's Degree in the field. Additionally, I completed a Prestigious year-long Software Development Programme with<a href = " https://codeyourfuture.io/ alt ="CYF" "> 'Code Your Future</a>,' mastering HTML, CSS, Tailwind, Next.js, JavaScript, React, Node.js, SQL, AWS, and Python.
+An experienced Full-Stack Developer with a solid background in Computer Software Technology Engineering, my educational journey includes a Bachelor's Degree in the field. Additionally, I completed a Prestigious year-long Software Development Programme with<a href = " https://codeyourfuture.io/" target="_blank" alt ="CYF" > 'Code Your Future</a>,' mastering HTML, CSS, Tailwind, Next.js, JavaScript, React, Node.js, SQL, AWS, and Python.
 
 Presently exploring permanent job opportunities to apply expertise and contribute to meaningful projects. Additionally, open to considering contracting roles that align with skill set and career aspirations.
 </p>
