@@ -37,7 +37,7 @@ Our Final Project was developed collaboratively by a team of four.
 We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
 
-### [The I Life](https://main.d3q5vnfi8sdva3.amplifyapp.com/)
+### [The I Life](https://glittery-taffy-9e8911.netlify.app/)
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
 For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both frontend and backend development.
 
