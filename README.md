@@ -31,6 +31,8 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 <!-- ### [Landon Hotel, Personal Project](https://main.d3nfqgnj9dhwef.amplifyapp.com/)
 
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! -->
+### [Readme - Hire Me! 💼, Personal Project](https://www.youtube.com/watch?v=I7tPFF2TmeI)
+Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
 ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
