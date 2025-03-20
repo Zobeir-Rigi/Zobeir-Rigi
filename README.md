@@ -2,7 +2,7 @@
 <p>
 An experienced Full-Stack Developer with a solid background in Software Engineering. I completed a Prestigious year-long Software Development program with<a href ="https://codeyourfuture.io/" target="_blank" alt ="CYF" > Code Your Future</a>, mastering HTML, CSS, Tailwind, Next.js, JavaScript, React, Node.js, SQL, AWS, and Python.
 
-Presently exploring permanent job opportunities to apply expertise and contribute to meaningful projects. Additionally, open to considering contracting roles that align with skill set and career aspirations.
+Presently exploring permanent job opportunities to apply expertise and contribute to meaningful projects. Additionally, open to considering contracting roles that align with my skill set and career aspirations.
 </p>
 
 <!-- - 💬 Ask me about **React, Node-js** -->
