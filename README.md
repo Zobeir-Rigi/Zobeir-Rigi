@@ -34,14 +34,14 @@ Built a <b>full-stack project</b> – a single-page React app powered by the mag
 ### [Readme - Hire Me!💼](https://www.youtube.com/watch?v=FBI8WM3dY7M)
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
-### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
+<!-- ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
 We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
-Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application.
+Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application. -->
 
 ### [The I Life](https://glittery-taffy-9e8911.netlify.app/)
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
-For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both frontend and backend development.
+For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
 
 ### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
