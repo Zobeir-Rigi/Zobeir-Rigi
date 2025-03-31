@@ -9,7 +9,7 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 
 - 📫 Reach me at **rigi.zobir@yahoo.com**
   - <a href="https://portfolio-zobeirrigi.netlify.app/"  target="_blank" >Portfolio</a>
-  - <a href="https://www.linkedin.com/in/zobeir-r-37068217b/"  target="_blank" >LinkedIn</a>
+  - <a href="https://www.linkedin.com/in/zobeir-r-37068217b/"  target="_blank" >Linkedin</a>
   - <a href="https://www.codewars.com/users/Zobeir-Rigi"  target="_blank" >Codewars</a>
  <!-- ### 📁 [Current CV](https://drive.google.com/file/d/1v7qNmpDyS8CA0PR_nv5ASdy8b5n9sQQm/view) -->
 
