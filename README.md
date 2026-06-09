@@ -47,6 +47,8 @@ For this project, Built a stylish website with using <b>HTML, CSS, React, JavaSc
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
 ### [Blog, React & Node, Group Project](https://blog-team-work.netlify.app/)
+
 ### [Tv Show](https://cyf-zobeir-rigi-tv.netlify.app/)
+Individual project. Vanila javascript, Html, css.
 
 <!-- This was my first [blog](http://www.sad_music.loxblog.com/) when I was in high school. -->
