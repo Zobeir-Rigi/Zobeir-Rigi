@@ -59,23 +59,21 @@ Our collaboration and systematic approach ensured successful completion. The pro
 
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
-Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
+A full-stack single-page application built with React and AWS. Uses DynamoDB for data storage and AWS Lambda to handle backend functionality in a serverless architecture.
 
 ### The I Life 
 *Personal Project*
 
 [🔗 Demo](https://glittery-taffy-9e8911.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/eshop)
 
-Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
-For this project, built a stylish website using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
+A full-stack web application built using React, JavaScript, and Firebase. Developed to practise both frontend and backend development, including authentication and dynamic data handling.
 
 ### Eshop
 *Team Project*
 
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/ShayanMahnam/team-amazon-clone)
 
-This is a simple e-commerce website built using React and Firebase.
-It was developed as a team project, where I collaborated with 13 others, gaining valuable experience in teamwork, communication, and working together to deliver a shared outcome.
+A simple e-commerce application built using React and Firebase. Developed as part of a team of 13, where I collaborated with others and gained hands-on experience in teamwork, communication, and shared development workflows.
 
 <!-- 
 ### Blog
