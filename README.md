@@ -33,6 +33,8 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
 ### [Readme - Hire Me!💼](https://www.youtube.com/watch?v=FBI8WM3dY7M)
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
 <!-- ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
@@ -41,15 +43,23 @@ We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to cre
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application. -->
 
 ### [The I Life](https://glittery-taffy-9e8911.netlify.app/)
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
 For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
 
 ### [Eshop Group Project](https://london9-amazon-clone-50-react-project.netlify.app/)
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
 ### [Blog, React & Node, Group Project](https://blog-team-work.netlify.app/)
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
 
 ### [Tv Show](https://cyf-zobeir-rigi-tv.netlify.app/)
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
 Individual project. Vanila javascript, Html, css.
 
 <!-- This was my first [blog](http://www.sad_music.loxblog.com/) when I was in high school. -->
