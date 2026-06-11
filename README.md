@@ -60,14 +60,14 @@ For this project, built a stylish website using <b>HTML, CSS, React, JavaScript 
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
-
+<!-- 
 ### Blog
 *Personal Project*
 
 [🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/my-blog)
 
 Tech stack: React & Node, Group Project
-
+-->
 ### TV Show
 *Personal Project*
 
