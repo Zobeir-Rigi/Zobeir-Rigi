@@ -28,11 +28,15 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 </p>
 
 ## Projects Showcase
-### Landon Hotel (Personal Project)
+### Landon Hotel 
+*Personal Project*
+
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
-### Readme - Hire Me!💼 (Team Project)
+### Readme - Hire Me!💼 
+*Team Project*
+
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
@@ -42,14 +46,16 @@ Our Final Project was developed collaboratively by a team of four.
 We utilised <b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application. -->
 
-### The I Life (Personal Project)
+### The I Life 
+*Personal Project*
+
 [🔗 Demo](https://glittery-taffy-9e8911.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
 For this project, built a stylish website using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
 
 ### Eshop
-**Group Project**
+*Team Project*
 
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
