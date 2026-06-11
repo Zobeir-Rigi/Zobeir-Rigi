@@ -1,9 +1,13 @@
-<h1 align="center">Hi👋, I'm Zobeir</h1>
-<p>
-An experienced Full-Stack Developer with a solid background in Software Engineering. I completed a prestigious year-long Software Development program with<a href ="https://codeyourfuture.io/" target="_blank" alt ="CYF" > Code Your Future</a>, mastering HTML, CSS, Tailwind, Next.js, JavaScript, React, Node.js, SQL, AWS, and Python.
+<h1 align="center">Hi 👋, I'm Zobeir</h1>
 
-Presently exploring permanent job opportunities to apply expertise and contribute to meaningful projects. Additionally, open to considering contracting roles that align with my skill set and career aspirations.
+<p>
+I'm a software developer with a background in Software Engineering and training from <a href="https://codeyourfuture.io/" target="_blank">Code Your Future</a> and Just IT. 
+
+I've built web applications using JavaScript through projects, a web development internship, and a volunteer QA role.
+
+I'm familiar with version control, issue tracking, and working in remote teams, and I'm motivated to continue learning and growing in a professional environment.
 </p>
+
 
 <!-- - 💬 Ask me about **React, Node-js** -->
 
