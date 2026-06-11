@@ -64,7 +64,9 @@ For this project, built a stylish website using <b>HTML, CSS, React, JavaScript 
 
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/ShayanMahnam/team-amazon-clone)
 
-Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
+This is a simple e-commerce website built using React and Firebase.
+It was developed as a team project, where I collaborated with 13 others, gaining valuable experience in teamwork, communication, and working together to deliver a shared outcome.
+
 <!-- 
 ### Blog
 *Personal Project*
