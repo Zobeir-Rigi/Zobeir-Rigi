@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zobeir</h1>
 
 <p>
-I'm a software developer with a background in Software Engineering and training from <a href="https://codeyourfuture.io/" target="_blank">Code Your Future</a> and Just IT. 
+I'm a software developer with a background in Software Engineering and training from <a href="https://codeyourfuture.io/" target="_blank">Code Your Future</a> and <a href"https://www.linkedin.com/company/leeptalent1/about/" target="_blank">Just IT</a>. 
 
 I've built web applications using JavaScript through projects, a web development internship, and a volunteer QA role.
 
