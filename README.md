@@ -53,11 +53,12 @@ For this project, built a stylish website using <b>HTML, CSS, React, JavaScript 
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
-### Blog ((Personal Project))
+### Blog (Personal Project)
 [🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 Tech stack: React & Node, Group Project
 
 ### TV Show
+**Type:**(Personal Project)
 [🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Individual project. Vanila javascript, Html, css.
