@@ -28,37 +28,36 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 </p>
 
 ## Projects Showcase
-### Landon Hotel
-<small>Personal Project</small>
+### Landon Hotel (Personal Project)
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
-### Readme - Hire Me!💼
+### Readme - Hire Me!💼 (Team Project)
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
 <!-- ### [Cyf Progress Tracker](https://starter-kit-j8jj.onrender.com/)
 Our Final Project was developed collaboratively by a team of four.
-We utilized<b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
+We utilised <b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application. -->
 
-### The I Life
+### The I Life (Personal Project)
 [🔗 Demo](https://glittery-taffy-9e8911.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
-For this project, Built a stylish website with using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
+For this project, built a stylish website using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
 
-### Eshop Group Project
+### Eshop (Group Project)
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
-### Blog
+### Blog ((Personal Project))
 [🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
-Tech stack : React & Node, Group Project
+Tech stack: React & Node, Group Project
 
-### Tv Show
+### TV Show
 [🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Individual project. Vanila javascript, Html, css.
