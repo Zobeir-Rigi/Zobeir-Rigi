@@ -48,7 +48,9 @@ Our collaboration and systematic approach ensured successful completion. The pro
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
 For this project, built a stylish website using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
 
-### Eshop (Group Project)
+### Eshop
+**Group Project**
+
 [🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
@@ -62,6 +64,7 @@ Tech stack: React & Node, Group Project
 
 ### TV Show
 *Personal Project*
+
 [🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Tech stack: Vanilla JavaScript, HTML, CSS.
