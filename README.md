@@ -57,7 +57,8 @@ Thirteen individuals came together in a collaborative effort, culminating in a f
 [🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 Tech stack: React & Node, Group Project
 
-### TV Show *Personal Project*
+### TV Show
+*Personal Project*
 [🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Individual project. Vanila javascript, Html, css.
