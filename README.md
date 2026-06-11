@@ -37,7 +37,7 @@ Built a <b>full-stack project</b> – a single-page React app powered by the mag
 ### Readme - Hire Me!💼 
 *Team Project*
 
-[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/readme-hireme)
 
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
@@ -49,7 +49,7 @@ Our collaboration and systematic approach ensured successful completion. The pro
 ### The I Life 
 *Personal Project*
 
-[🔗 Demo](https://glittery-taffy-9e8911.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://glittery-taffy-9e8911.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/eshop)
 
 Completed a personal<b> Full-Stack project </b> to assess my skills and showcase my abilities.
 For this project, built a stylish website using <b>HTML, CSS, React, JavaScript and Firebase</b>. This experience taught me both front-end and backend development.
@@ -64,7 +64,7 @@ Thirteen individuals came together in a collaborative effort, culminating in a f
 ### Blog
 *Personal Project*
 
-[🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/my-blog)
 
 Tech stack: React & Node, Group Project
 
