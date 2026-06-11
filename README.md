@@ -28,7 +28,8 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 </p>
 
 ## Projects Showcase
-### Landon Hotel, Personal Project
+### Landon Hotel
+###### Personal Project
 [🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
