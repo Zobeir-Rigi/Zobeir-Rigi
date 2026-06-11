@@ -40,6 +40,7 @@ I'm familiar with version control, issue tracking, and working in remote teams, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp; -->
 </div>
+
 ## Projects Showcase
 ### Readme - Hire Me!💼 
 *Team Project*
