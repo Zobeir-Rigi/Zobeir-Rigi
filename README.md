@@ -37,7 +37,7 @@ Built a <b>full-stack project</b> – a single-page React app powered by the mag
 ### Readme - Hire Me!💼 
 *Team Project*
 
-[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/readme-hireme)
+[🔗 Demo](https://readme-hireme-ldn-cyf.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/readme-hireme)
 
 Introducing Readme - Hire Me! This full-stack platform, using SQL, Node.js, CSS, and React.js, is designed to connect Codeyourfuture graduates with potential employers. Graduates can easily add their details via GitHub login.
 
@@ -57,7 +57,7 @@ For this project, built a stylish website using <b>HTML, CSS, React, JavaScript 
 ### Eshop
 *Team Project*
 
-[🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 
@@ -71,7 +71,7 @@ Tech stack: React & Node, Group Project
 ### TV Show
 *Personal Project*
 
-[🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/tv-show-dom-project)
 
 Tech stack: Vanilla JavaScript, HTML, CSS.
 
