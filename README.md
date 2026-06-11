@@ -28,12 +28,6 @@ Presently exploring permanent job opportunities to apply expertise and contribut
 </p>
 
 ## Projects Showcase
-### Landon Hotel 
-*Personal Project*
-
-[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
-
-Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
 ### Readme - Hire Me!💼 
 *Team Project*
 
@@ -46,6 +40,13 @@ Our Final Project was developed collaboratively by a team of four.
 We utilised <b> HTML, CSS, JavaScript, React, Node.js,</b> and<b> SQL </b> to create a comprehensive<b> full-stack web application</b>.
 Our collaboration and systematic approach ensured successful completion. The project showcases our ability to work as a team and deliver a well-executed web application. -->
 
+### Landon Hotel 
+*Personal Project*
+
+[🔗 Demo](https://main.d3be44oj94s28h.amplifyapp.com/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+
+Built a <b>full-stack project</b> – a single-page React app powered by the magic of AWS! 🚀 Started with mock data, then elevated the game by setting up DynamoDB tables – AWS's flexible NoSQL database. Loaded data seamlessly using Lambda functions, turning our app not just sleek but also serverless! 
+
 ### The I Life 
 *Personal Project*
 
@@ -57,7 +58,7 @@ For this project, built a stylish website using <b>HTML, CSS, React, JavaScript 
 ### Eshop
 *Team Project*
 
-[🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/landon  )
+[🔗 Demo](https://london9-amazon-clone-50-react-project.netlify.app)  [📁 GitHub Repo](https://github.com/ShayanMahnam/team-amazon-clone)
 
 Thirteen individuals came together in a collaborative effort, culminating in a fascinating experience that significantly enriched our understanding of teamwork.
 <!-- 
@@ -67,12 +68,12 @@ Thirteen individuals came together in a collaborative effort, culminating in a f
 [🔗 Demo](https://blog-team-work.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/my-blog)
 
 Tech stack: React & Node, Group Project
--->
+
 ### TV Show
 *Personal Project*
 
 [🔗 Demo](https://cyf-zobeir-rigi-tv.netlify.app/)  [📁 GitHub Repo](https://github.com/Zobeir-Rigi/tv-show-dom-project)
 
-Tech stack: Vanilla JavaScript, HTML, CSS.
+Tech stack: Vanilla JavaScript, HTML, CSS. -->
 
 <!-- This was my first [blog](http://www.sad_music.loxblog.com/) when I was in high school. -->
